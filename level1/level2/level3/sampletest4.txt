@@ -1,0 +1,10 @@
+Hi am Learming Devops
+
+#include<stdio.h>
+#include<conio.h>
+main();
+{
+
+printf("Am Learning Devops"\n);
+
+}
