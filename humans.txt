@@ -26,4 +26,5 @@ I want to learn devops with in 3 months and should be in the position to crack i
 I want to be a pro in git 
 I want to learn devops with in 3 months and should be in the position to crack interview
 Learn all scenarios in git
+Today complete the git sessions and start practing
 
